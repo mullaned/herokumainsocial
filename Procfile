@@ -1,1 +1,1 @@
-web: gunicorn <your project name>.wsgi:application
+web: gunicorn main_social.wsgi:application
